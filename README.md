@@ -1,1 +1,2 @@
 # iExpense
+Expense Managing App
